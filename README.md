@@ -1,5 +1,5 @@
 # PlaneGame-v_0.9
-项目包括 源代码 、exe可执行程序、及将Jar文件转化为exe的EXE4J 软件。
+项目包括 源代码 、exe可执行程序、及将Jar文件转化为exe的EXE4J 软件。源码文件为\src
 
 可以将项目源代码打包为jar文件后通过EXE4J自行转化为exe程序。
 
